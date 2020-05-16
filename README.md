@@ -22,6 +22,6 @@ The planet Earth needs my expertise to know what we have found!
     - country
     - shape
 
-![UFO_level-2.png](UFO-level-2/static/images/UFO_level-2_ReadMe.png)
+![UFO_level-2.png](UFO-level-2/static/images/UFO_level-2.png)
 
 
