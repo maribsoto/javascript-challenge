@@ -3,7 +3,7 @@
 ![maxresdefault.jpg](UFO-level-1/static/images/maxresdefault.jpg)
  
 WE'RE ALL NOW AWAKE! The extra-terrestrial menace has come to Earth and we here at ALIENS-R-REAL have collected all of the eye-witness reports we could to prove it! There is just one tiny problem though... our collection is too large to search through manually. 
-i was hired to write a code that will create a table dynamically based upon a provided dataset. I have to allow our users to filter the table data for specific values. Pure JavaScript, HTML, and CSS, and D3.js on our web pages were used since these are the only coding languages which can be trusted.
+I was hired to write a code that will create a table dynamically based upon a provided dataset. I have to allow our users to filter the table data for specific values. Pure JavaScript, HTML, and CSS, and D3.js on our web pages were used since these are the only coding languages which can be trusted.
 The planet Earth needs my expertise to know what we have found!
 
 ## LEVEL 1: Automatic Table and Date Search
